@@ -1,6 +1,6 @@
-# XOgame
+# tic_tac_toe
 
-XO is a TicTacToe game.
+A new Flutter project.
 
 ## Getting Started
 
